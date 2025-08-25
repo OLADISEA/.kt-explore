@@ -1,2 +1,2 @@
 # .kt-explore
-Working my way around kotline
+Working my way around kotlin
